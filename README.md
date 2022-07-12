@@ -7,6 +7,7 @@ pip install natsort
 To install the library:
 
 go get github.com/asticode/go-astisub
+
 To install the CLI:
 
 go install github.com/asticode/go-astisub/astisub 
